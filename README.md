@@ -4,7 +4,7 @@ SJSU students lack a simple, timely way to report safety incidents and understan
 # SJSU SafetyMap: AI for campus safety incident visibility gaps
 
 Client: City of San José, Increasing Community Safety  
-Team: [TEAM MEMBER NAMES], Aug–Oct 2026  
+Team: James Doan, Rithvik Saladi, Taran Sahota, Eric Liao Aug–Oct 2026  
 My part: I designed the AI-assisted reporting workflow and built the incident-reporting and campus safety heat-map prototype.
 
 ## The problem
